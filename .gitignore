@@ -3,12 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Zip files
+*.zip
+
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
 build/
+images/
+models/
+#img/ #TODO: remove once we have actual snowbot images
 develop-eggs/
 dist/
 downloads/
