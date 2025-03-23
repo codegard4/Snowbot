@@ -8,7 +8,7 @@ if __name__ == '__main__':
 
     # Set parameters
     threshold = 0.25  # Confidence threshold
-    video = cv2.VideoCapture("vid/IMG_3314.MOV")  # Load input video
+    video = cv2.VideoCapture("vid/3334.mp4")  # Load input video
 
     # Check if the video opened successfully
     if not video.isOpened():
